@@ -9,10 +9,11 @@
 }
 
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: var(--black);
   margin: 0;
   background-color: var(--gray);
+  font-size: 1.5rem;
 }
 
 /* Header */
@@ -205,7 +206,8 @@ body {
   padding: 2rem 1rem;
   border-radius: var(--radius);
   margin: 2rem auto;
-  border-top: 1px solid #000;
+  border-top: 0.15rem solid #000;
+  border-bottom: 0.15rem solid #000;
 }
 
 .faq-list {
@@ -225,12 +227,13 @@ body {
 
 /* Contact */
 .contact-section {
-  background-color: var(--white);
+  background-color: var(--black);
   padding: 2rem 1rem;
   border-radius: var(--radius);
   margin: 2rem auto;
   text-align: center;
   border-top: 1px solid #000;
+  color: white;
 }
 
 /* Footer */
@@ -254,6 +257,14 @@ body {
   .hero-section h1 {
     font-size: 2rem;
   }
+}
+
+.title-of-posts{
+  
+  margin:2rem 0;
+  padding-top: 1rem;
+  font-size: 1.5rem;
+  text-align: left;
 }
 /* Post Page */
 .page{
