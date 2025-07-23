@@ -1,2 +1,12 @@
-# Assignment 2
-Assignment 2 Web Tech
+Newsly – Web Technology Assignment 2 _ This website is about introduction of news app
+
+## Project Description
+Newsly is a responsive news blog homepage created for Assignment 2 in the Web Technology course. The website features a clean design with a hero section, featured content, blog introduction, a grid of news posts, and an individual article page. It is built using HTML5 and CSS3, incorporating Flexbox, Grid layout, responsive units, transitions, and media queries.
+
+## How to View the Blog Homepage
+1. Download or clone the repository.
+2. Open the file `index.html` in your web browser.
+3. Click on any "Read More" link to view the full article in `post.html`.
+
+
+
