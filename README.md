@@ -8,5 +8,13 @@ Newsly is a responsive news blog homepage created for Assignment 2 in the Web Te
 2. Open the file `index.html` in your web browser.
 3. Click on any "Read More" link to view the full article in `post.html`.
 
+Technologies Used
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Media Queries
+- Google Fonts (Roboto)
+- Transitions & Hover Effects
 
 
