@@ -17,4 +17,6 @@ Technologies Used
 - Google Fonts (Roboto)
 - Transitions & Hover Effects
 
+Link Github: https://github.com/Bryan010205/Assignment-2
+
 
