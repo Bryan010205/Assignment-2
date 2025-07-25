@@ -289,6 +289,7 @@ body {
   margin: 0;
 }
 
+/* Post List */
 .post_article { 
   width: 25rem; /* Adjust width of the post card */
   display: flex;
